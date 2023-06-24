@@ -7,7 +7,7 @@
     "start:backend": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Bhavani Puttaraj",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
